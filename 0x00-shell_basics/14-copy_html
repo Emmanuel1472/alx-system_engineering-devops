@@ -1,2 +1,2 @@
 #!/bin/bash
-cp *.html 13-symbolic_link
+cp *.html /tmp/file_0.html
