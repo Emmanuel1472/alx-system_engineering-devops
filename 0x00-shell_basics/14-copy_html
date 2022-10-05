@@ -1,4 +1,2 @@
 #!/bin/bash
 cp *.html /tmp/file_0.html
-cp *.html /tmp/file_1.html
-cp *.hmtl /tmp/file_2.html
